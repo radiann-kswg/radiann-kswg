@@ -44,11 +44,17 @@ Claude（Claude Desktop / Claude Code / Cowork）とGitHub Copilotを相棒に�
 
 ## 🤝 協働リポジトリ（ゲームジャム等）
 
-チーム制作・イベント参加で制作にかかわった作品です。
+チーム制作・イベント参加で制作にかかわった作品です（※印は他オーナー管理・非公開リポジトリ）。
 
 | リポジトリ | 概要 |
 |---|---|
-| [Plus-Minus-5](https://github.com/radiann-kswg/Plus-Minus-5) | 「Global Game Jam 2022」瀬戸内会場 出場作品（Unity / C#） |
+| [TENTOBI](https://github.com/radiann-kswg/TENTOBI) | 「天動説を唱えた罰がぶっ飛んでいる件について」チーム制作ゲーム（C++） |
+| [Plus-Minus-5](https://github.com/radiann-kswg/Plus-Minus-5) | 「Global Game Jam 2022」瀬戸内会場 出場作品（Unity / C#）。のちに『PlusMinus-Number-Tales』としてリニューアル |
+| SaikyoGameJam2023 ※ | 「最強ゲームジャム2023」参加作品（k-mitani） |
+| GlobalgameJam2025 ※ | 「Global Game Jam 2025」参加作品（naninunenoy） |
+| KokounoKensei ※ | チーム制作作品（uyaman2014） |
+| TheLostCulture ※ | チーム制作作品（KantaiMishima） |
+| MonkeytoHuman / MonkeytoHuman2D ※ | チーム制作作品（kazu0826 / Moriarium） |
 
 ## 💻 使用技術
 
