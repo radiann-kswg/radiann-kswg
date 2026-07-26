@@ -20,6 +20,8 @@ Claude（Claude Desktop / Claude Code / Cowork）とGitHub Copilotを相棒に�
 | [CheatSheet-of_HttpResponceDataCode](https://github.com/radiann-kswg/CheatSheet-of_HttpResponceDataCode) | HTTPステータスコードのチートシート（GitHub Copilotと共同整備） |
 | [ChearSheet-of_Numbers](https://github.com/radiann-kswg/ChearSheet-of_Numbers) | 数字の科学的性質・文化的いわれのチートシート（AIエージェントと共同整備） |
 | [APHRNTs_100](https://github.com/radiann-kswg/APHRNTs_100) | 生活管理サポート＆Misskey Bot（TypeScript / Node.js） |
+| [NumberTales-MisskeyAIBot](https://github.com/radiann-kswg/NumberTales-MisskeyAIBot) | ナンバーテールズのMisskey AI Bot（TypeScript） |
+| [AstroScope](https://github.com/radiann-kswg/AstroScope) | 占星術の道具を扱えるUnityアプリ（GitHub Copilotと共同開発 / C#） |
 | [QuaternionViewer](https://github.com/radiann-kswg/QuaternionViewer) | クォータニオン学習用ビューア（C#） |
 
 ## 🎨 創作活動
@@ -39,6 +41,14 @@ Claude（Claude Desktop / Claude Code / Cowork）とGitHub Copilotを相棒に�
 | [100BeautiesLab-CharacterVRMs](https://github.com/radiann-kswg/100BeautiesLab-CharacterVRMs) | 創作キャラクターのVRMモデル |
 | [PenchantManufacture_ImageAssets](https://github.com/radiann-kswg/PenchantManufacture_ImageAssets) | 独自英数字フォント「PenchantManufacture」のSNS向け絵文字アセット集 |
 | [Secvier_ImageAssets](https://github.com/radiann-kswg/Secvier_ImageAssets) | 独自英数字フォント「Secvier」のSNS向け絵文字アセット集 |
+
+## 🤝 協働リポジトリ（ゲームジャム等）
+
+チーム制作・イベント参加で制作にかかわった作品です。
+
+| リポジトリ | 概要 |
+|---|---|
+| [Plus-Minus-5](https://github.com/radiann-kswg/Plus-Minus-5) | 「Global Game Jam 2022」瀬戸内会場 出場作品（Unity / C#） |
 
 ## 💻 使用技術
 
