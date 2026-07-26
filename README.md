@@ -49,7 +49,7 @@ Claude（Claude Desktop / Claude Code / Cowork）とGitHub Copilotを相棒に�
 | リポジトリ | 概要 |
 |---|---|
 | [TENTOBI](https://github.com/radiann-kswg/TENTOBI) | 「天動説を唱えた罰がぶっ飛んでいる件について」チーム制作ゲーム（C++） |
-| [Plus-Minus-5](https://github.com/radiann-kswg/Plus-Minus-5) | 「Global Game Jam 2022」瀬戸内会場 出場作品（Unity / C#）。のちに『PlusMinus-Number-Tales』としてリニューアル |
+| [Plus-Minus-5](https://github.com/radiann-kswg/Plus-Minus-5) | 「Global Game Jam 2022」瀬戸内会場 出場作品（Unity / C#）。のちに『Plus-Minus-NumberTales』としてリニューアル |
 | SaikyoGameJam2023 ※ | 「最強ゲームジャム2023」参加作品（k-mitani） |
 | GlobalgameJam2025 ※ | 「Global Game Jam 2025」参加作品（naninunenoy） |
 | KokounoKensei ※ | チーム制作作品（uyaman2014） |
