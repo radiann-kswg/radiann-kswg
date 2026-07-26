@@ -1,30 +1,34 @@
 # ラジアン（柏木主税） / RadianN_kswg 👋
 
 一次創作サークル **「百花繚乱研究所」** のサークル主。
-創作活動（イラスト・キャラクターDB・VRM・同人タロット等）と、その制作を支えるツール類を
-**VSCode ＋ AIエージェント（Claude / GitHub Copilot）によるバイブコーディング** で開発しています。
+ふたつの軸で活動しています。
+
+- 🤖 **AI協働開発** — VSCode ＋ AIエージェント（Claude / GitHub Copilot）によるバイブコーディングで、実用ツールやBotを個人開発
+- 🎨 **創作活動** — イラスト・キャラクター設定・同人タロット・VRMモデルなどの一次創作
 
 > ⚠️ このREADMEは仮入力（ドラフト）です。内容は随時更新します。
 
-## 🔭 いま取り組んでいること
+## 🤖 AI協働開発（バイブコーディング）
 
-- 一次創作 **「ナンバーテールズ」** をはじめとする創作プロジェクトの公式サイト・キャラクターDB整備
-- Claude（Claude Desktop / Claude Code / Cowork）とGitHub Copilotを使った **AI協働開発** の実践
-  - 画像処理の一括バッチ化（QuickPNGシリーズ）
-  - チートシート・データセットの自動整備（CheatSheetシリーズ / 100BeautiesLab_CreationsAI）
-  - Misskey Bot・生活管理サポートツール（APHRNTs_100）などの個人開発
-
-## 🛠️ 主なリポジトリ
+Claude（Claude Desktop / Claude Code / Cowork）とGitHub Copilotを相棒に、
+「日々の作業で面倒なこと」をツール化しています。
 
 | リポジトリ | 概要 |
 |---|---|
-| [QuickPNG-Tinize4Web](https://github.com/radiann-kswg/QuickPNG-Tinize4Web) | Web向けPNG縮小・圧縮の一括バッチ（Claudeで開発） |
-| [QuickPNG-SmartObjectExport](https://github.com/radiann-kswg/QuickPNG-SmartObjectExport) | PSDのスマートオブジェクトを一括PNG出力（Claudeで開発） |
-| [PenchantManufacture_ImageAssets](https://github.com/radiann-kswg/PenchantManufacture_ImageAssets) | 独自英数字フォント×SVGのSNS向け絵文字アセット集 |
+| [QuickPNG-Tinize4Web](https://github.com/radiann-kswg/QuickPNG-Tinize4Web) | Web向けPNG縮小・圧縮の一括バッチ（Python） |
+| [QuickPNG-SmartObjectExport](https://github.com/radiann-kswg/QuickPNG-SmartObjectExport) | PSDのスマートオブジェクトを一括PNG出力（Python） |
 | [CheatSheet-of_HttpResponceDataCode](https://github.com/radiann-kswg/CheatSheet-of_HttpResponceDataCode) | HTTPステータスコードのチートシート（GitHub Copilotと共同整備） |
-| [100BeautiesLab_CreationsAI](https://github.com/radiann-kswg/100BeautiesLab_CreationsAI) | 一次創作作品のAI学習向けデータセット提供リポジトリ |
-| [APHRNTs_100](https://github.com/radiann-kswg/APHRNTs_100) | 創作キャラ「100(モモ)」による生活管理・Misskey Bot（TypeScript） |
+| [ChearSheet-of_Numbers](https://github.com/radiann-kswg/ChearSheet-of_Numbers) | 数字の科学的性質・文化的いわれのチートシート（AIエージェントと共同整備） |
+| [APHRNTs_100](https://github.com/radiann-kswg/APHRNTs_100) | 生活管理サポート＆Misskey Bot（TypeScript / Node.js） |
 | [QuaternionViewer](https://github.com/radiann-kswg/QuaternionViewer) | クォータニオン学習用ビューア（C#） |
+
+## 🎨 創作活動
+
+一次創作 **「ナンバーテールズ」** を中心に、公式サイト・キャラクターDB・VRMモデル・同人タロットなどを制作しています。
+
+- 🏠 オフィシャルサイト: https://www.numbertales-radiann.net
+- 🗃️ 創作キャラクターDB: https://database.numbertales-radiann.net
+- ✒️ 独自英数字フォント「PenchantManufacture」の[SNS向け絵文字アセット集](https://github.com/radiann-kswg/PenchantManufacture_ImageAssets)
 
 ## 💻 使用技術
 
@@ -39,7 +43,5 @@
 
 ## 🔗 リンク
 
-- 🏠 オフィシャルサイト: https://www.numbertales-radiann.net
-- 🗃️ 創作キャラクターDB: https://database.numbertales-radiann.net
 - 🎨 pixiv: https://www.pixiv.net/users/44375569
 - ✉️ Skeb: https://skeb.jp/@RadianN_kswg
