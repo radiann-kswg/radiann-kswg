@@ -28,7 +28,17 @@ Claude（Claude Desktop / Claude Code / Cowork）とGitHub Copilotを相棒に�
 
 - 🏠 オフィシャルサイト: https://www.numbertales-radiann.net
 - 🗃️ 創作キャラクターDB: https://database.numbertales-radiann.net
-- ✒️ 独自英数字フォント「PenchantManufacture」の[SNS向け絵文字アセット集](https://github.com/radiann-kswg/PenchantManufacture_ImageAssets)
+
+| リポジトリ | 概要 |
+|---|---|
+| [100BeautiesLab_CreationsDB](https://github.com/radiann-kswg/100BeautiesLab_CreationsDB) | 創作キャラクターの構想を“ほぼすべて”まとめたデータベース |
+| [RadianNs_WebSite](https://github.com/radiann-kswg/RadianNs_WebSite) | サークル主「ラジアン(柏木主税)」のオフィシャルホームページ |
+| [NumberTales-HTML_CSS](https://github.com/radiann-kswg/NumberTales-HTML_CSS) | 一次創作「ナンバーテールズ」公式サイト |
+| [SeventyEight-HTML_CSS](https://github.com/radiann-kswg/SeventyEight-HTML_CSS) | 同人タロット制作中の「運命線探偵」公式サイト |
+| [ShouArRider-HTML_CSS](https://github.com/radiann-kswg/ShouArRider-HTML_CSS) | 年賀イラスト・ショートストーリー中心の「獣爾騎兵」公式サイト |
+| [100BeautiesLab-CharacterVRMs](https://github.com/radiann-kswg/100BeautiesLab-CharacterVRMs) | 創作キャラクターのVRMモデル |
+| [PenchantManufacture_ImageAssets](https://github.com/radiann-kswg/PenchantManufacture_ImageAssets) | 独自英数字フォント「PenchantManufacture」のSNS向け絵文字アセット集 |
+| [Secvier_ImageAssets](https://github.com/radiann-kswg/Secvier_ImageAssets) | 独自英数字フォント「Secvier」のSNS向け絵文字アセット集 |
 
 ## 💻 使用技術
 
