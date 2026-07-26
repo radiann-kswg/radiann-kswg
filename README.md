@@ -41,6 +41,7 @@ Claude（Claude Desktop / Claude Code / Cowork）とGitHub Copilotを相棒に�
 | [100BeautiesLab-CharacterVRMs](https://github.com/radiann-kswg/100BeautiesLab-CharacterVRMs) | 創作キャラクターのVRMモデル |
 | [PenchantManufacture_ImageAssets](https://github.com/radiann-kswg/PenchantManufacture_ImageAssets) | 独自英数字フォント「PenchantManufacture」のSNS向け絵文字アセット集 |
 | [Secvier_ImageAssets](https://github.com/radiann-kswg/Secvier_ImageAssets) | 独自英数字フォント「Secvier」のSNS向け絵文字アセット集 |
+| Plus-Minus-NumberTales（非公開） | 「Plus-Minus-5」をナンバーテールズ作品としてリニューアルしたゲーム（Unity / C#） |
 
 ## 🤝 協働リポジトリ（ゲームジャム等）
 
