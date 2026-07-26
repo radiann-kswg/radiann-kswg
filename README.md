@@ -41,21 +41,21 @@ Claude（Claude Desktop / Claude Code / Cowork）とGitHub Copilotを相棒に�
 | [100BeautiesLab-CharacterVRMs](https://github.com/radiann-kswg/100BeautiesLab-CharacterVRMs) | 創作キャラクターのVRMモデル |
 | [PenchantManufacture_ImageAssets](https://github.com/radiann-kswg/PenchantManufacture_ImageAssets) | 独自英数字フォント「PenchantManufacture」のSNS向け絵文字アセット集 |
 | [Secvier_ImageAssets](https://github.com/radiann-kswg/Secvier_ImageAssets) | 独自英数字フォント「Secvier」のSNS向け絵文字アセット集 |
-| Plus-Minus-NumberTales（非公開） | 「Plus-Minus-5」をナンバーテールズ作品としてリニューアルしたゲーム（Unity / C#） |
+| [Plus-Minus-NumberTales](https://github.com/radiann-kswg/Plus-Minus-NumberTales) | ナンバーテールズ公式パズルアクションゲーム（Unity / C#）。[unityroomで公開中](https://unityroom.com/games/plus-minus-numbertales) |
 
 ## 🤝 協働リポジトリ（ゲームジャム等）
 
-チーム制作・イベント参加で制作にかかわった作品です（※印は他オーナー管理・非公開リポジトリ）。
+チーム制作・イベント参加で制作にかかわった作品です（※印は他オーナー管理のリポジトリ）。
+主要なゲーム協働開発の活動記録は[オフィシャルサイト](https://www.numbertales-radiann.net/)にも掲載しています。
 
 | リポジトリ | 概要 |
 |---|---|
 | [TENTOBI](https://github.com/radiann-kswg/TENTOBI) | 「天動説を唱えた罰がぶっ飛んでいる件について」チーム制作ゲーム（C++） |
-| [Plus-Minus-5](https://github.com/radiann-kswg/Plus-Minus-5) | 「Global Game Jam 2022」瀬戸内会場 出場作品（Unity / C#）。のちに『Plus-Minus-NumberTales』としてリニューアル |
-| SaikyoGameJam2023 ※ | 「最強ゲームジャム2023」参加作品（k-mitani） |
-| GlobalgameJam2025 ※ | 「Global Game Jam 2025」参加作品（naninunenoy） |
-| KokounoKensei ※ | チーム制作作品（uyaman2014） |
-| TheLostCulture ※ | チーム制作作品（KantaiMishima） |
-| MonkeytoHuman / MonkeytoHuman2D ※ | チーム制作作品（kazu0826 / Moriarium） |
+| [Plus-Minus-5](https://github.com/radiann-kswg/Plus-Minus-5) | 「Global Game Jam 2022」瀬戸内会場 出場作品（Unity / C#）。のちに『[Plus-Minus-NumberTales](https://github.com/radiann-kswg/Plus-Minus-NumberTales)』としてリニューアル（[SXG2022](https://www.numbertales-radiann.com/news/news202206_sxg2022.html) / [SXG2023](https://www.numbertales-radiann.com/news/news202311_sxg2023.html)） |
+| KokounoKensei ※ | 『[孤高の剣聖](https://unityroom.com/games/kokounokensei)』—「[ゲームジャム高梁2021](https://gjtakahashi.okayamaunity.com/gjtakahashi2021/)」方谷賞受賞作。PGとして参加（uyaman2014） |
+| SaikyoGameJam2023 ※ | 「[最強ゲームジャム2023](https://www.e-topia-kagawa.jp/lecture/saikyo_game_jam_2023/)」参加作品。[unityroomで公開中](https://unityroom.com/games/saikyogamejam2023c)（k-mitani） |
+| MonkeytoHuman ※ | 『[モンキー・トゥ・ヒューマン](https://v3.globalgamejam.org/2023/games/monky-human-%E3%83%A2%E3%83%B3%E3%82%AD%E3%83%BC%E3%83%BB%E3%83%88%E3%82%A5%E3%83%BB%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%B3-2)』—「Global Game Jam 2023」参加作品。[2D版をunityroomで公開中](https://unityroom.com/games/monkey-to-human-2d)（kazu0826 / Moriarium） |
+| GlobalgameJam2025 ※ | 『[Bubble Crab](https://globalgamejam.org/games/2025/bubble-crab-9)』—「Global Game Jam 2025」参加作品。[unityroomで公開中](https://unityroom.com/games/bubblecrab)（naninunenoy） |
 
 ## 💻 使用技術
 
