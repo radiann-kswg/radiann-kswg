@@ -15,7 +15,7 @@
 `APHRNTs_100` は実装 約5,200行に対しテスト 約4,200行（vitest 46ファイル）。AIに書かせたコードをそのまま通さず、テストで検証してからマージする運用です。
 
 **3. 要件定義から本番運用・障害対策まで一人で通している**
-Misskey AI Bot 2本をGCP上で常時稼働中。`master`マージ後の自動デプロイと、3層ウォッチドッグ（プロセス / VM内 / VM外部）による自動復旧まで構築しています。1本目で作った運用基盤を2本目へ横展開しました。
+Misskey AI Bot 3本を運用中（うち2本はGCP上で常時稼働）。`master`マージ後の自動デプロイと、3層ウォッチドッグ（プロセス / VM内 / VM外部）による自動復旧まで構築しています。1本目で作った運用基盤を2本目へ横展開しました。
 
 ## 🤖 主力プロジェクト
 
@@ -23,6 +23,7 @@ Misskey AI Bot 2本をGCP上で常時稼働中。`master`マージ後の自動�
 |---|---|---|
 | [APHRNTs_100](https://github.com/radiann-kswg/APHRNTs_100) | 生活管理・セルフケア支援のMisskey AI Bot。**本番稼働中**。マルチLLM抽象化 / Tool use / SQLite永続化 / Markdown⇄DB双方向同期 / 危機検知 | TypeScript |
 | [NumberTales-MisskeyAIBot](https://github.com/radiann-kswg/NumberTales-MisskeyAIBot) | 創作キャラクターのMisskey AI Bot。**本番稼働中**。創作DBからのプロンプト動的生成 / 週次担当のPoll選出 / 3層ウォッチドッグ | TypeScript |
+| [Tarot-byFateLineDealer](https://github.com/radiann-kswg/Tarot-byFateLineDealer) | タロット占いBot「錦野舞」。**Claude / Copilot / Codex / Misskey Bot の4つの入口が、同じ正本を実行時に読む**構成。設定を複製せず1箇所の変更で全環境が変わる | Python |
 | [100BeautiesLab_CreationsDB](https://github.com/radiann-kswg/100BeautiesLab_CreationsDB) | 創作キャラクターの公開データベース。**GitHub Pages上でService Workerによる擬似REST APIを3スコープ実装**。スキーマ定義・参照解決エンジン付き | JavaScript |
 | [PenchantManufacture_ImageAssets](https://github.com/radiann-kswg/PenchantManufacture_ImageAssets) | 自作英数字フォント「PenchantManufacture」のSNS向け図柄絵文字アセット集。生成をバッチ化 | Python |
 | [RadianNs_WebSite](https://github.com/radiann-kswg/RadianNs_WebSite) | サークル主のオフィシャルサイト。Vue.js 3 ＋ SASS / GitHub Pages | TypeScript |
@@ -84,7 +85,7 @@ Misskey AI Bot 2本をGCP上で常時稼働中。`master`マージ後の自動�
 ## 🌐 運営
 
 - **Misskeyサーバ「[shapesky](https://shapesky.xsns.jp/)」の管理者** — 規約策定・連合設定・カスタム絵文字の権利主/ライセンス別の仕分け運用・問い合わせ窓口の維持（ホスティング利用の小規模サーバ・試験運用中）
-- **Misskey AI Bot 2本を運営中** — `@APHR_NTs` / `@APHR_NTs_100`
+- **Misskey AI Bot 3本を運営中** — ナンバーテールズBot `@APHR_NTs` / メンタルケアBot「100(モモ)」`@APHR_NTs_100` / タロット占いBot「錦野舞」
 - 利用条件を明文化したガイドラインを**日英2言語**で公開・維持
 
 ## 📜 資格
@@ -94,5 +95,6 @@ Misskey AI Bot 2本をGCP上で常時稼働中。`master`マージ後の自動�
 
 ## 🔗 リンク
 
+- 🧑‍💻 技術ポートフォリオ: https://www.numbertales-radiann.net/tech/
 - 🎨 pixiv: https://www.pixiv.net/users/44375569
 - ✉️ Skeb: https://skeb.jp/@RadianN_kswg
