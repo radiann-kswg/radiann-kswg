@@ -24,10 +24,10 @@ Misskey AI Bot 3本を運用中（うち2本はGCP上で常時稼働）。`maste
 | [APHRNTs_100](https://github.com/radiann-kswg/APHRNTs_100) | 生活管理・セルフケア支援のMisskey AI Bot。**本番稼働中**。マルチLLM抽象化 / Tool use / SQLite永続化 / Markdown⇄DB双方向同期 / 危機検知 | TypeScript |
 | [NumberTales-MisskeyAIBot](https://github.com/radiann-kswg/NumberTales-MisskeyAIBot) | 創作キャラクターのMisskey AI Bot。**本番稼働中**。創作DBからのプロンプト動的生成 / 週次担当のPoll選出 / 3層ウォッチドッグ | TypeScript |
 | [Tarot-byFateLineDealer](https://github.com/radiann-kswg/Tarot-byFateLineDealer) | タロット占いBot「錦野舞」。**Claude / Copilot / Codex / Misskey Bot の4つの入口が、同じ正本を実行時に読む**構成。設定を複製せず1箇所の変更で全環境が変わる | Python |
-| [100BeautiesLab_CreationsDB](https://github.com/radiann-kswg/100BeautiesLab_CreationsDB) | 創作キャラクターの公開データベース。**GitHub Pages上でService Workerによる擬似REST APIを3スコープ実装**。スキーマ定義・参照解決エンジン付き | JavaScript |
-| [PenchantManufacture_ImageAssets](https://github.com/radiann-kswg/PenchantManufacture_ImageAssets) | 自作英数字フォント「PenchantManufacture」のSNS向け図柄絵文字アセット集。生成をバッチ化 | Python |
+| [100BeautiesLab_CreationsDB](https://github.com/radiann-kswg/100BeautiesLab_CreationsDB) | 創作キャラクターの公開データベース。**GitHub Pages上でService Workerによる擬似REST APIを3スコープ実装**。スキーマ定義・参照解決エンジン付き | JavaScript、GitHub Pages |
+| [PenchantManufacture_ImageAssets](https://github.com/radiann-kswg/PenchantManufacture_ImageAssets) | 自作英数字フォント「PenchantManufacture」のSNS向け理工学系装飾文字アセット集。生成をバッチ化（元フォントアセットは[こちら](https://radiann-kswg.booth.pm/items/3960545)） | Python, Adobe Illustrator |
 | [RadianNs_WebSite](https://github.com/radiann-kswg/RadianNs_WebSite) | サークル主のオフィシャルサイト。Vue.js 3 ＋ SASS / GitHub Pages | TypeScript |
-| [TENTOBI](https://github.com/radiann-kswg/TENTOBI) | 「天動説を唱えた罰がぶっ飛んでいる件について」チーム制作ゲーム | C++ |
+| [TENTOBI](https://github.com/radiann-kswg/TENTOBI) | 「天動説を唱えた罰がぶっ飛んでいる件について」チーム制作ゲーム | Unity C# |
 
 ## 🛠️ 制作したツール
 
@@ -42,6 +42,7 @@ Misskey AI Bot 3本を運用中（うち2本はGCP上で常時稼働）。`maste
 | [QuaternionViewer](https://github.com/radiann-kswg/QuaternionViewer) | クォータニオン学習用ビューア（C#） |
 | [CheatSheet-of_HttpResponceDataCode](https://github.com/radiann-kswg/CheatSheet-of_HttpResponceDataCode) | HTTPステータスコードのチートシート（GitHub Copilotと共同整備） |
 | [CheatSheet-of_Numbers](https://github.com/radiann-kswg/CheatSheet-of_Numbers) | 数字の科学的性質・文化的いわれのチートシート（AIエージェントと共同整備） |
+| [RouletteSphereChaser](https://github.com/radiann-kswg/RouletteSphereChaser) | ライト層向け観賞用ボール抽選機エンジン（AIエージェントと共同開発, Unity C#） |
 
 ## 🎨 創作活動
 
@@ -56,7 +57,7 @@ Misskey AI Bot 3本を運用中（うち2本はGCP上で常時稼働）。`maste
 | [SeventyEight-HTML_CSS](https://github.com/radiann-kswg/SeventyEight-HTML_CSS) | 同人タロット制作中の「運命線探偵」公式サイト |
 | [ShouArRider-HTML_CSS](https://github.com/radiann-kswg/ShouArRider-HTML_CSS) | 年賀イラスト・ショートストーリー中心の「獣爾騎兵」公式サイト |
 | [100BeautiesLab-CharacterVRMs](https://github.com/radiann-kswg/100BeautiesLab-CharacterVRMs) | 創作キャラクターのVRMモデル |
-| [Plus-Minus-NumberTales](https://github.com/radiann-kswg/Plus-Minus-NumberTales) | ナンバーテールズ公式パズルアクションゲーム（Unity / C#）。[unityroomで公開中](https://unityroom.com/games/plus-minus-numbertales) |
+| [Plus-Minus-NumberTales](https://github.com/radiann-kswg/Plus-Minus-NumberTales) | ナンバーテールズ公式パズルアクションゲーム（Unity C#）。[unityroomで公開](https://unityroom.com/games/plus-minus-numbertales) |
 
 ## 🤝 協働リポジトリ（ゲームジャム等）
 
@@ -95,6 +96,9 @@ Misskey AI Bot 3本を運用中（うち2本はGCP上で常時稼働）。`maste
 
 ## 🔗 リンク
 
+- 📮 お問い合わせ: https://www.numbertales-radiann.net/
 - 🧑‍💻 技術ポートフォリオ: https://www.numbertales-radiann.net/tech/
-- 🎨 pixiv: https://www.pixiv.net/users/44375569
+- 📁 一次創作作品について: https://database.numbertales-radiann.net/
+- 📁 二次創作作品について: https://secondary-work.numbertales-radiann.jp/
+- 🎨 pixiv: https://www.pixiv.net/users/44375569/
 - ✉️ Skeb: https://skeb.jp/@RadianN_kswg
