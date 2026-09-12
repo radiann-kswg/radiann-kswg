@@ -55,7 +55,7 @@ Misskey AI Bot 3本を運用中（うち2本はGCP上で常時稼働）。`maste
 |---|---|
 | [NumberTales-HTML_CSS](https://github.com/radiann-kswg/NumberTales-HTML_CSS) | 一次創作「ナンバーテールズ」公式サイト |
 | [SeventyEight-HTML_CSS](https://github.com/radiann-kswg/SeventyEight-HTML_CSS) | 同人タロット制作中の「運命線探偵」公式サイト |
-| [ShouArRider-HTML_CSS](https://github.com/radiann-kswg/ShouArRider-HTML_CSS) | 年賀イラスト・ショートストーリー中心の「獣爾騎兵」公式サイト |
+| [ShauErRider-HTML_CSS](https://github.com/radiann-kswg/ShauErRider-HTML_CSS) | 年賀イラスト・ショートストーリー中心の「獣爾騎兵」公式サイト |
 | [100BeautiesLab-CharacterVRMs](https://github.com/radiann-kswg/100BeautiesLab-CharacterVRMs) | 創作キャラクターのVRMモデル |
 | [Plus-Minus-NumberTales](https://github.com/radiann-kswg/Plus-Minus-NumberTales) | ナンバーテールズ公式パズルアクションゲーム（Unity C#）。[unityroomで公開](https://unityroom.com/games/plus-minus-numbertales) |
 
