@@ -79,8 +79,8 @@
 | --- | --- |
 | [Tarot-byFateLineDealer](https://github.com/radiann-kswg/Tarot-byFateLineDealer) | 「運命線探偵78」の錦野舞によるタロット占い。Claude・Copilot・Codex・Misskey Bot の 4 つの入口が、同じ正本を実行時に読む構成 |
 | [APHRNTs_100](https://github.com/radiann-kswg/APHRNTs_100) | ナンバーテールズの「100(モモ)」と、Claude で日々の振り返りや思考整理ができるプロンプト。Misskey Bot としても動作（TypeScript・vitest） |
-| [100BeautiesLab_GeneratorsAI](https://github.com/radiann-kswg/100BeautiesLab_GeneratorsAI) | ナンバーテールズの「57(イズナ)」に、創作キャラクターのイラストを生成してもらう仕組み |
-| [100BeautiesLab_ShapeChangerAI](https://github.com/radiann-kswg/100BeautiesLab_ShapeChangerAI) | 創作キャラクターの形状変化イラストを生成するパイプライン |
+| `100BeautiesLab_GeneratorsAI`（非公開） | ナンバーテールズの「57(イズナ)」に、創作キャラクターのイラストを生成してもらう仕組み |
+| `100BeautiesLab_ShapeChangerAI`（非公開） | 創作キャラクターの形状変化イラストを生成するパイプライン |
 
 <details>
 <summary>ほか 2 件</summary>
