@@ -30,7 +30,7 @@
 | --- | --- |
 | [100BeautiesLab_CreationsDB](https://github.com/radiann-kswg/100BeautiesLab_CreationsDB) | 創作キャラクターの設定を公開するデータベース。Service Worker が JSON から応答を組み立てる擬似 REST API を実装（[公開サイト](https://database.numbertales-radiann.net/)） |
 | [JsonCharacterDB-Framework](https://github.com/radiann-kswg/JsonCharacterDB-Framework) | 上記データベースの仕組みを汎用化した、JSON で創作情報を管理する GitHub Pages 用フレームワーク |
-| [100BeautiesLab_CreationsAI](https://github.com/radiann-kswg/100BeautiesLab_CreationsAI) | 一次創作作品を生成 AI・機械学習向けに整形した、非公式・非営利のデータセット |
+| [RadianNs_WebSite](https://github.com/radiann-kswg/RadianNs_WebSite) | サークルとサークル主の活動をまとめたホームページ |
 | [NumberTales-HTML_CSS](https://github.com/radiann-kswg/NumberTales-HTML_CSS) ・ [SeventyEight-HTML_CSS](https://github.com/radiann-kswg/SeventyEight-HTML_CSS) ・ [ShauErRider-HTML_CSS](https://github.com/radiann-kswg/ShauErRider-HTML_CSS) | 「ナンバーテールズ」「運命線探偵78」「獣爾騎兵」の公式サイト（Vue.js 3 ＋ SASS ＋ GitHub Pages） |
 
 <details>
@@ -38,7 +38,7 @@
 
 | リポジトリ | 内容 |
 | --- | --- |
-| [RadianNs_WebSite](https://github.com/radiann-kswg/RadianNs_WebSite) | サークルとサークル主の活動をまとめたホームページ |
+| [100BeautiesLab_CreationsAI](https://github.com/radiann-kswg/100BeautiesLab_CreationsAI) | 一次創作作品を生成 AI・機械学習向けに整形した、非公式・非営利のデータセット |
 | [CheatSheet-of_Numbers](https://github.com/radiann-kswg/CheatSheet-of_Numbers) | 3 桁以内の数字の科学的性質や文化的ないわれのチートシート（[閲覧ページ](https://radiann-kswg.github.io/CheatSheet-of_Numbers/)） |
 | [CheatSheet-of_HttpResponceDataCode](https://github.com/radiann-kswg/CheatSheet-of_HttpResponceDataCode) | HTTP ステータスコードのチートシート（[閲覧ページ](https://radiann-kswg.github.io/CheatSheet-of_HttpResponceDataCode/)） |
 
@@ -60,13 +60,12 @@
 
 | リポジトリ | 内容 |
 | --- | --- |
+| [NTsWallpaperEngine](https://github.com/radiann-kswg/NTsWallpaperEngine) | ナンバーテールズのライブ壁紙・サイネージ |
 | [LotteryBallKit](https://github.com/radiann-kswg/LotteryBallKit) | 抽選機用のボールを好きなテクスチャに変えて使える素材集 |
 | [NTsLotteryEngine](https://github.com/radiann-kswg/NTsLotteryEngine) | ナンバーテールズのコアフォルダ姿をボール抽選機の球に見立てた派生作品 |
 | [NTsSphereChaser](https://github.com/radiann-kswg/NTsSphereChaser) | ナンバーテールズ柄の球が RouletteSphereChaser のコースを巡る観賞用アプリ（Linux 向け） |
 | [Sunrise-Sunset-Simulator](https://github.com/radiann-kswg/Sunrise-Sunset-Simulator) | 日時と観測地から太陽の高度・方位を計算し、日の出・日没を再現 |
 | [Meter-Assets-Workspace](https://github.com/radiann-kswg/Meter-Assets-Workspace) | レベルゲージや回転式メーターなど 4 種の uGUI メーター UI アセット |
-| [NTsWallpaperEngine](https://github.com/radiann-kswg/NTsWallpaperEngine) | ナンバーテールズのライブ壁紙・サイネージ |
-| [100BeautiesLab-CharacterVRMs](https://github.com/radiann-kswg/100BeautiesLab-CharacterVRMs) | 創作キャラクターの VRM モデル |
 | [TENTOBI](https://github.com/radiann-kswg/TENTOBI) | 天動説を唱えた罰がぶっ飛んでいる件について（2020 年・C++） |
 
 </details>
@@ -79,16 +78,8 @@
 | --- | --- |
 | [Tarot-byFateLineDealer](https://github.com/radiann-kswg/Tarot-byFateLineDealer) | 「運命線探偵78」の錦野舞によるタロット占い。Claude・Copilot・Codex・Misskey Bot の 4 つの入口が、同じ正本を実行時に読む構成 |
 | [APHRNTs_100](https://github.com/radiann-kswg/APHRNTs_100) | ナンバーテールズの「100(モモ)」と、Claude で日々の振り返りや思考整理ができるプロンプト。Misskey Bot としても動作（TypeScript・vitest） |
-| `100BeautiesLab_GeneratorsAI`（非公開） | ナンバーテールズの「57(イズナ)」に、創作キャラクターのイラストを生成してもらう仕組み |
-| `100BeautiesLab_ShapeChangerAI`（非公開） | 創作キャラクターの形状変化イラストを生成するパイプライン |
-
-<details>
-<summary>ほか 2 件</summary>
-
-| リポジトリ | 内容 |
-| --- | --- |
-| [ImageFrequencyCheckerForHandmaidsVsAI](https://github.com/radiann-kswg/ImageFrequencyCheckerForHandmaidsVsAI) | 画素の周波数分布から、手描きのイラストか AI 生成画像かの判別を試みるツール |
 | [NumberTales-MisskeyAIBot](https://github.com/radiann-kswg/NumberTales-MisskeyAIBot) | ナンバーテールズの Misskey AI Bot。GCP 上の常駐と 3 層ウォッチドッグによる自動復旧を構築（アーカイブ済み） |
+| [ImageFrequencyCheckerForHandmaidsVsAI](https://github.com/radiann-kswg/ImageFrequencyCheckerForHandmaidsVsAI) | 画素の周波数分布から、手描きのイラストか AI 生成画像かの判別を試みるツール |
 
 </details>
 
